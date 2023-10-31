@@ -118,3 +118,136 @@ header nav li:last-of-type a {
     font-weight: 400;
     line-height: 20px;
 }
+
+.second_bg {
+    background-image: url("../images/second_bg.jpg");
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.second_bg h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.second_bg p {
+    color: #C0C0C0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.Sunset_box{
+    margin-right: 62px;
+}
+
+.third_bg {
+    background-image: url("../images/third_bg.jpg");
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.third_bg h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.third_bg p {
+    color: #C0C0C0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.leafs_box{
+    margin-right: 87px;
+}
+
+.fouth_bg {
+    background-image: url("../images/fouth_bg.jpg");
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.fouth_bg h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.fouth_bg p {
+    color: #C0C0C0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.himalayas_box{
+    margin-right: 106px;
+}
+
+.client_section {
+    background-color: black;
+    padding: 113px 0 140px 0;
+}
+
+
+.client_section h2{
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    margin-bottom: 15px;
+
+}
+
+.client_section h3{
+    color: #C0C0C0;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 82px;
+}
+.partners_logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
